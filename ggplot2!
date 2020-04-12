@@ -1,0 +1,1 @@
+geom_boxplot in ggplot2 plot outlier by default. so if you plot point or jitter should be careful !!!! point repeat!
