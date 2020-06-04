@@ -1,0 +1,3 @@
+
+Problems : Failed to connect to api.github.com port 443: Connection refused
+anwers : devtools::install_github("snowflakedb/dplyr-snowflakedb", host = "https://api.github.com")
